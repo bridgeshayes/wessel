@@ -1,0 +1,76 @@
+body{
+    margin: 0px
+}
+.box{
+    border: 5px solid;
+    width: 250px;
+    height: 350px;
+    margin: auto;
+}
+#box1{
+    margin-top: 300px;
+}
+#Google_Button{
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: small;
+    background-color: gray;
+    color: white;
+    width: 100px;
+}
+#Facebook_Button{
+    margin-left: 20px;
+    font-size: small;
+    background-color: gray;
+    color: white;
+    width: 100px;
+    height: px;
+}
+#Login{
+    margin-left: 45px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: white;
+}
+#email{
+    font-size: medium;
+    margin-top: -10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 200px;
+    background-color: gray;
+    color: white;
+    font-size: small;
+}
+#password{
+    font-size: medium;
+    margin-top: -10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 200px;
+    background-color: gray;
+    color: white;
+    font-size: small;
+}
+#or{
+    margin-left: 100px;
+    color: white;
+}
+input::placeholder{
+    color: white;
+}
+#Log{
+    font-size: medium;
+    margin-top: 10px;
+    border-radius: 0%;
+    width: 250px;
+    height: 42px;
+    background-color: rgb(143, 61, 197);
+    color: white;
+    font-size: small;
+}
+#sign_up{
+    color: aliceblue;
+    text-align: center;
+}
+
